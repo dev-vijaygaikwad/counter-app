@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+.btn {
+  font-size: larger;
+  margin: 1em;
+  padding: 0.5em;
+  border: none;
+  border-radius: 5px;
+}
+.btn-increment {
+  background-color: green;
+}
+.btn-reset {
+  background-color: gray;
+}
+.btn-decrement {
+  background-color: red;
+}
+.text-white {
+  color: #fff;
+}
